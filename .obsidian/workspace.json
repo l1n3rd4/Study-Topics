@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/AI Definition and Areas.md",
+                "file": "AI/Machine Learning (ML).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/AI Definition and Areas.md",
+                "file": "AI/Machine Learning (ML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/AI Definition and Areas.md",
+                "file": "AI/Machine Learning (ML).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/AI Definition and Areas.md"
+                "file": "AI/Machine Learning (ML).md"
               }
             }
           }
@@ -147,19 +147,19 @@
   },
   "active": "745000e02012397b",
   "lastOpenFiles": [
+    "AI/Machine Learning (ML).md",
+    "AI/AI Definition and Areas.md",
     "AI/AI in Healthcare.md",
     "Untitled.canvas",
     "AI/AI in Finance.md",
     "AI/AI in Gaming.md",
     "AI/AI for Sustainability.md",
-    "AI/AI Definition and Areas.md",
     "AI/AI and Creativity.md",
     "AI/AI Ethics and Fairness.md",
     "AI/Reinforcement Learning.md",
     "AI/Autonomous Systems.md",
     "AI/Robotics.md",
     "AI/Natural Language Processing (NLP).md",
-    "AI/Machine Learning (ML).md",
     "Credits.md",
     "AI/Computer Vision.md",
     "AI",
