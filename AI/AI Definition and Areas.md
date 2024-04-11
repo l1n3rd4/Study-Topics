@@ -1,6 +1,10 @@
 <center> Artificial Intelligence </center>
 
+<div style="text-align: justify">
+Artificial Intelligence (AI) is a branch of computer science and engineering that focuses on the development of systems capable of performing tasks that typically require human intelligence. AI involves the study of algorithms and computational models that enable machines to exhibit cognitive functions such as learning, reasoning, problem-solving, perception, and language understanding.
+
 Artificial Intelligence (AI) is a broad and rapidly evolving field encompassing various sub-disciplines and applications. Here's an overview of key areas within AI:
+</div>
 
 1. **[[Machine Learning (ML)]]**:
 	   - ML focuses on the development of algorithms that enable machines to learn from and make decisions based on data.
