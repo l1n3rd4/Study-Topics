@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae5625fe6b8b8e8d",
+        "id": "a0900bc5b19ea2ec",
         "type": "tabs",
         "children": [
           {
-            "id": "745000e02012397b",
+            "id": "0539f203bf67aa38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/AI Definition and Areas.md",
+                "file": "Quantum_Computing/Definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/AI Definition and Areas.md",
+                "file": "Quantum_Computing/Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/AI Definition and Areas.md",
+                "file": "Quantum_Computing/Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/AI Definition and Areas.md"
+                "file": "Quantum_Computing/Definition.md"
               }
             }
           }
@@ -142,25 +142,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "745000e02012397b",
+  "active": "0539f203bf67aa38",
   "lastOpenFiles": [
-    "AI/Machine Learning (ML).md",
+    "AI/AI for Sustainability.md",
+    "AI/Robotics.md",
+    "AI/Reinforcement Learning.md",
+    "AI/AI and Creativity.md",
+    "Quantum_Computing/Definition.md",
+    "Quantum_Computing/Pesquisa.md",
     "AI/AI Definition and Areas.md",
+    "Credits.md",
+    "Credridits.md",
+    "Quantum_Computing",
+    "AI/Machine Learning (ML).md",
     "AI/AI in Healthcare.md",
     "Untitled.canvas",
     "AI/AI in Finance.md",
     "AI/AI in Gaming.md",
-    "AI/AI for Sustainability.md",
-    "AI/AI and Creativity.md",
     "AI/AI Ethics and Fairness.md",
-    "AI/Reinforcement Learning.md",
     "AI/Autonomous Systems.md",
-    "AI/Robotics.md",
     "AI/Natural Language Processing (NLP).md",
-    "Credits.md",
     "AI/Computer Vision.md",
     "AI",
     "AI/Deep Learning.md",
